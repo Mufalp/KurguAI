@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059073654273",
+    "project_id": "novelai-61453",
+    "storage_bucket": "novelai-61453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059073654273:android:7d32bc6768d33fefd64a00",
+        "android_client_info": {
+          "package_name": "com.example.accproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9hr3aIRhNN6QVNXTrQHCg6QBlGOzBx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
